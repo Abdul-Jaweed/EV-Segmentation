@@ -42,10 +42,10 @@ st.header(":blue[Segmentation Chart]")
 
 
 
-st.image("images\evbefore2.png")
+st.image("https://github.com/Abdul-Jaweed/EV-Segmentation/blob/main/images/evbefore2.png")
     
 
-st.image("images\evafter2.png")
+st.image("https://github.com/Abdul-Jaweed/EV-Segmentation/blob/main/images/evafter2.png")
 
 
 
@@ -76,9 +76,9 @@ Contains the below columns: Regn_No: Registration Number Regn_VFDt: Registration
 
 st.header(":blue[Segmentation Chart]")
 
-st.image("images\evbefore1.png")
+st.image("https://github.com/Abdul-Jaweed/EV-Segmentation/blob/main/images/evbefore1.png")
 
-st.image("images\evafter1.png")
+st.image("https://github.com/Abdul-Jaweed/EV-Segmentation/blob/main/images/evafter1.png")
 
 
 st.markdown("""
