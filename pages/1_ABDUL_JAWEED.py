@@ -78,7 +78,7 @@ st.header(":blue[Segmentation Chart]")
 
 st.image("images/evbefore1.png")
 
-st.image("images\evafter1.png")
+st.image("images/evafter1.png")
 
 
 st.markdown("""
