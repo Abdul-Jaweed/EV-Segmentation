@@ -42,7 +42,7 @@ st.header(":blue[Segmentation Chart]")
 
 
 
-st.image("images\evbefore2.png")
+st.image("images/evbefore2.png")
     
 
 st.image("https://github.com/Abdul-Jaweed/EV-Segmentation/blob/main/images/evafter2.png")
