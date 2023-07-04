@@ -16,10 +16,10 @@ Electric vehicles are needed because they have the ability to drastically reduce
             """)
 
 
-st.image("images/shaleen3.png")
+st.image("images/shaleen3.PNG")
     
 
-st.image("images/shaleen4.png")
+st.image("images/shaleen4.PNG")
 
 
 
@@ -41,10 +41,10 @@ st.markdown("""
 
 
 
-st.image("images/shaleen8.png")
+st.image("images/shaleen8.PNG")
     
 
-st.image("images/shaleen7.png")
+st.image("images/shaleen7.PNG")
 
 
 
