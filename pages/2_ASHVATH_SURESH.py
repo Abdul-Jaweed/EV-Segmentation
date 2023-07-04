@@ -23,7 +23,6 @@ st.image("images/asv1.PNG")
 st.image("images/asv2.PNG")
 
 
-
 st.markdown("""
             #### Code [link](https://github.com/Abdul-Jaweed/Feynn-Lab-Internship/blob/main/Project%202.1/Indian%20EV%20Segmentation.ipynb)
             """)
